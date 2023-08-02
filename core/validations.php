@@ -1,14 +1,6 @@
 <?php
 
-    // mahfouz - هو عامل كل فانكشن الفالديشن بالطريقه دي 
-    // function requiredVal($input){
-    //     if(empty($input)){
-    //         return false;
-    //     }
-    //     return true;
-    // }
 
-    // me
     function requiredVal($input){
         if(empty($input)){
             return true;
